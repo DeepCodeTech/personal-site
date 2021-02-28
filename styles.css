@@ -1,0 +1,121 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.A{
+  color: black;
+}
+.top-container{
+  background-color: #b0e0e6;
+  margin:auto;
+  position: relative;
+  padding: 100px;
+}
+.profile-pic{
+  border-radius: 100%;
+  margin-top: 100px;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 3;
+}
+.skill1{
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+.skill2{
+  width: 30%;
+  float: right;
+  margin-left: 30px;
+}
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625em;
+  margin-bottom: 0;
+  margin-top: 0;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2rem;
+  font-weight: bolder;
+  color: #66BFBF;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
+  color: #66BFBF;
+}
+.middle-container{
+
+}
+.bottom-container{
+
+}
+.top-cloud{
+  position: absolute;
+  right: 400px;
+  top: 50px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 400px;
+  bottom: 400px;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+  margin: 100px auto;
+}
+.contact-me{
+  line-height: 3;
+  margin-bottom: 60px;
+}
+.BUTTON_OGV {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 12px;
+   line-height: 12px;
+   color: #FFFFFF;
+   font-family: Arial;
+   width: 110px;
+   padding: 14px;
+   background-color: #66BFBF;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_OGV:hover {
+   border: solid #FFFFFF 1px;
+   background: #000000;
+   background-image: -webkit-linear-gradient(top, #000000, #000000);
+   background-image: -moz-linear-gradient(top, #000000, #000000);
+   background-image: -ms-linear-gradient(top, #000000, #000000);
+   background-image: -o-linear-gradient(top, #000000, #000000);
+   background-image: -webkit-gradient(to bottom, #000000, #000000);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
+.bottom-container{
+  line-height: 3;
+  background-color: #b0e0e6;
+  padding: 20px;
+}
+.footer-link{
+  margin: auto 50px;
+}
+.P{
+  color: grey;
+}
